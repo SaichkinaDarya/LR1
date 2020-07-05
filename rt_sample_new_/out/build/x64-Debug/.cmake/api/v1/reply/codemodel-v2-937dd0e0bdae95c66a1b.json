@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rt_sample_new",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rt_sample_new::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rt_sample_new-Debug-ece8cabe0c74ab694f14.json",
+					"name" : "rt_sample_new",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Dasha/Desktop/6 семестр/Компьютерная графика/лаба 1/rt_sample_new_/out/build/x64-Debug",
+		"source" : "C:/Users/Dasha/Desktop/6 семестр/Компьютерная графика/лаба 1/rt_sample_new_"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

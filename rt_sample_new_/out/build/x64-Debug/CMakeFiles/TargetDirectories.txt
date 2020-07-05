@@ -1,0 +1,3 @@
+C:/Users/Dasha/Desktop/6 семестр/Компьютерная графика/лаба 1/rt_sample_new_/out/build/x64-Debug/CMakeFiles/rt_sample_new.dir
+C:/Users/Dasha/Desktop/6 семестр/Компьютерная графика/лаба 1/rt_sample_new_/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Dasha/Desktop/6 семестр/Компьютерная графика/лаба 1/rt_sample_new_/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
